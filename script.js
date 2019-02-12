@@ -13,12 +13,12 @@ const totalPoints = document.querySelector("#totalPoints");
 
 
 let diceImgs = {
-    dice1:'./img/bnw-dice/dice1.png',
-    dice2:'./img/bnw-dice/dice2.png',
-    dice3:'./img/bnw-dice/dice3.png',
-    dice4:'./img/bnw-dice/dice4.png',
-    dice5:'./img/bnw-dice/dice5.png',
-    dice6:'./img/bnw-dice/dice6.png',
+    dice1:'img/bnw-dice/dice1.png',
+    dice2:'img/bnw-dice/dice2.png',
+    dice3:'img/bnw-dice/dice3.png',
+    dice4:'img/bnw-dice/dice4.png',
+    dice5:'img/bnw-dice/dice5.png',
+    dice6:'img/bnw-dice/dice6.png',
   }
 
 const throwDice = () => {
