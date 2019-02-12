@@ -51,7 +51,7 @@ const throwDice = () => {
             const winMsg = document.querySelector("#display-win");
             winMsg.innerHTML = 'CONGRATULATIONS! YOU WON 🎉';
             totalScore = 0;
-            disableBtn(rollBtn);
+            tooggleBtn(rollBtn);
         }
 }
 
